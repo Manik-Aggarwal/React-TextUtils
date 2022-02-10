@@ -1,6 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+<<<<<<< HEAD
 import { Link } from 'react-router-dom';
+=======
+import {Link} from "react-router-dom";
+>>>>>>> 608023501404f69c4fd5416715451914788ba81c
 
 
 export default function Navbar(props) {
